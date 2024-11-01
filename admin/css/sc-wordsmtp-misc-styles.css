@@ -1,0 +1,40 @@
+
+td.tbl-td-label-name {
+	width: 20%;
+}
+div.sc-wordsmtp-debug-info {
+	display: none;
+	margin-top: 2%;
+	min-height: 100px;	
+	max-width: 80%;
+	margin: 0 auto;	
+	padding: 25px;
+	background-color: white;	
+}
+.sc-wordsmtp-logo-image-wrapper {
+	text-align: center;
+}
+
+.sc-wordsmtp-logo-image-wrapper img {
+	filter: drop-shadow(10px 10px 4px #2271b1);
+	width: 180px;
+	height: 180px;
+	border-radius: 10px;
+}
+
+.sc-wordsmtp-mail-report-label {
+	padding-bottom: 15px !important;
+	font-size: 1.3em;
+	font-weight: 600;
+}
+
+.sc-wordsmtp-mail-report-label span {
+	vertical-align: middle;	
+	padding-right: 5px;
+	color: chocolate;	
+}
+.sc-wordsmtp-email-icon {
+	color: chocolate;
+	vertical-align: middle;
+	padding-right: 5px;
+}
